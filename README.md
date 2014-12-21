@@ -1,5 +1,7 @@
 DZNSegmentedControl
 ========================
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dzenbot/DZNSegmentedControl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Pod Version](http://img.shields.io/cocoapods/v/DZNSegmentedControl.svg)](https://cocoadocs.org/docsets/DZNSegmentedControl)
 [![Gittip](http://img.shields.io/gittip/dzenbot.svg)](https://www.gittip.com/dzenbot/)
 [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
